@@ -1,6 +1,5 @@
 import React, { useRef, useEffect } from 'react';
 import './Alice.css';
-import useWebAnimations from "@wellyshen/use-web-animations";
 
 function Alice() {
     const background1 = useRef(null);
